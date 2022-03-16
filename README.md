@@ -1,7 +1,7 @@
 # Hi there, I'm Ali 👋 
 
 <a href="https://wakatime.com/@4995feca-55c0-4abe-a4ea-8e01489936d0"><img src="https://wakatime.com/badge/user/4995feca-55c0-4abe-a4ea-8e01489936d0.svg" alt="Total time coded since Feb 20 2022" /></a>
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://aliradwan.netlify.app/)
+[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Faliradwan.netlify.app%2F)](https://aliradwan.netlify.app/)
 
 
 
