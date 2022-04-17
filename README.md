@@ -7,7 +7,7 @@
 
 ## I'm a Student, Developer, and a Gamer!!
 
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Data Analysis and machine learning 🤖
 - 👯 I’m looking for an Internship
 - 🥅 2022 Goals: Graduate from the FWD Scholarship
 - ⚡ Fun fact: I'm still stuck at 17 Y/O
