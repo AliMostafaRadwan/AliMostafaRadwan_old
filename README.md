@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Data Analysis and machine learning 🤖
 - 👯 I’m looking for a Learning Partnership
 - 🥅 2022 Goals: Graduate from the FWD Scholarship[✔️] | reach 100hr of programming[⌛]
-- ⚡ Fun fact: I'm still stuck at 17 Y/O
+- ⚡ Fun fact: I HATE fish
 - 👾 Discord: HERO | ヒーロー#4785
 
 
