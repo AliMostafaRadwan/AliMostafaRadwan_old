@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Data Analysis and machine learning 🤖
 - 👯 I’m looking for a Learning Partnership
-- 🥅 2022 Goals: G̶̅r̶̅a̶̅d̶̅u̶̅a̶̅t̶̅e̶̅ ̶̅f̶̅r̶̅o̶̅m̶̅ ̶̅t̶̅h̶̅e̶̅ ̶̅F̶̅W̶̅D̶̅ ̶̅S̶̅c̶̅h̶̅o̶̅l̶̅a̶̅r̶̅s̶̅h̶̅i̶̅p̶̅ reach 100hr of programming
+- 🥅 2022 Goals: Graduate from the FWD Scholarship[✔️] reach 100hr of programming[⌛]
 - ⚡ Fun fact: I'm still stuck at 17 Y/O
 - 👾 Discord: HERO | ヒーロー#4785
 
