@@ -11,6 +11,7 @@
 - 👯 I’m looking for an Internship
 - 🥅 2022 Goals: Graduate from the FWD Scholarship
 - ⚡ Fun fact: I'm still stuck at 17 Y/O
+- 👾 Discord: HERO | ヒーロー#4785
 
 
 ### Connect with me:
