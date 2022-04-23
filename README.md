@@ -17,7 +17,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ali-m-radwan/)
+<!-- [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ali-m-radwan/) -->
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ali-m-radwan/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
