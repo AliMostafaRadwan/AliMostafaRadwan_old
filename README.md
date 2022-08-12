@@ -4,44 +4,22 @@
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=portfolio&up_color=blue&up_message=online&url=https%3A%2F%2Faliradwan.netlify.app%2F)](https://aliradwan.netlify.app/)
 
 
-
-## I'm a Student, Developer, and a Gamer!!
-
-- 🌱 I’m currently learning Data Analysis and machine learning 🤖
-- 👯 I’m looking for a Learning Partnership
-- 🥅 2022 Goals: Graduate from the FWD Scholarship[✔️] | reach 100hr of programming[⌛]
-- ⚡ Fun fact: I HATE fish
-- 👾 Discord: HERO | ヒーロー#4785
+# 💫 About Me:
+🔭 I’m currently learning BlockChain and Machine learning<br>🤝 I’m looking for New Friends<br>💬 Ask me about Anything<br>⚡ My Discord :   HERO | ヒーロー#4785
 
 
-### Connect with me:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/sV6nUrZJ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali_moustafa_radwan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-m-radwan) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@cypher.py) 
 
-&nbsp;&nbsp;
-<!-- [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ali-m-radwan/) -->
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ali-m-radwan/)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/Ali_Moustafa_Radwan/)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AliMostafaRadwan&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AliMostafaRadwan&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AliMostafaRadwan&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://www.python.org/)
-[<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />](#)
-
-<br />
-<br />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AliMostafaRadwan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
-
-
-
-[instagram]: #
-[linkedin]: #
-[webdevplaylist]: #
-<figure><embed src="https://wakatime.com/share/@Ali_Radwan/de8b607e-8a4e-4a7d-a42e-493edef2a78f.svg"></embed></figure>
+[![](https://visitcount.itsvg.in/api?id=AliMostafaRadwan&icon=0&color=0)](https://visitcount.itsvg.in)
