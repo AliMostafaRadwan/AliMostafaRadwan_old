@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently learning BlockChain and Machine learning<br>🤝 I’m looking for New Friends<br>💬 Ask me about Anything<br>⚡ My Discord :   HERO | ヒーロー#4785
+🔭 I’m currently learning BlockChain and Machine learning<br>🤝 I’m looking for New Friends<br>💬 Ask me about Anything<br>⚡ My Discord :   HERO | ヒーロー#6232
 
 
 ## 🌐 Socials:
