@@ -26,10 +26,10 @@
   <a href="https://www.linkedin.com/in/ali-m-radwan/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="241" height="51" alt="linkedin logo"  />
   </a>
-  <a href="discordapp.com/users/500031099318304780" target="_blank">
+  <a href="https://www.discordapp.com/users/500031099318304780" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="241" height="51" alt="discord logo"  />
   </a>
-  <a href="alimosamin@gmail.com" target="_blank">
+  <a href="https://www.alimosamin@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="241" height="51" alt="gmail logo"  />
   </a>
   <a href="https://instagram.com/ali.moustafa.radwan?igshid=MzNlNGNkZWQ4Mg==" target="_blank">
